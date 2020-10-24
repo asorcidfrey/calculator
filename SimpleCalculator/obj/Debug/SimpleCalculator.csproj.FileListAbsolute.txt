@@ -1,0 +1,5 @@
+C:\Users\Asus\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\Asus\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\Asus\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
